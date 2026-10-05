@@ -1,0 +1,12 @@
+﻿111
+	Accept
+	0111
+	Accept
+	010101
+	Accept
+	010010
+	Reject
+	01010101
+	Reject
+	1110
+	Accept

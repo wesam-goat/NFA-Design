@@ -1,0 +1,18 @@
+﻿10
+	Accept
+	100
+	Accept
+	101
+	Accept
+	1001
+	Accept
+	1011
+	Accept
+	1100
+	Reject
+	0111
+	Reject
+	Lamda
+	Reject
+	101000
+	Accept

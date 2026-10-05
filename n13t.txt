@@ -1,0 +1,12 @@
+﻿11
+	Accept
+	110
+	Accept
+	0111
+	Accept
+	111111
+	Accept
+	10
+	Reject
+	Lambda
+	Reject
